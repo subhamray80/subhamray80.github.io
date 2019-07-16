@@ -1,0 +1,170 @@
+.header{
+  background-image: url("http://eskipaper.com/images/steam-wallpapers-2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 10em;
+}
+.navigation{
+  overflow: hidden;
+  float: right;
+  text-decoration: none;
+  list-style-type: none;
+  
+}
+#navbar {
+  display: inline-block;
+  float: right;
+  list-style-type: none;
+  text-decoration: none;
+  overflow: hidden;
+  font-size: 20px;
+  color: black;
+  padding-right: 20px;
+}
+.links a{
+  text-decoration: none;
+  list-style-type: none;
+  color: white;
+  padding: 16px;
+}
+#navbar a:hover{
+  color: #066;
+}
+.downloadbutton{
+  color: white;
+  font-size: 40px;
+  text-align: center;
+  padding-top: 240px;
+}
+#download a{
+  font-size: 20px;
+  background-color: white;
+  padding: 16px;
+  border-radius: 10px;
+  font-size: 22px;
+  padding-top: 10px;
+  list-style-type: none;
+  text-decoration: none;
+}
+#steamlogo{
+  height: 140px;
+  width: 55em;
+  padding-left: 30em;
+}
+#aboutsteam{
+  font-size: 20px;
+  margin: auto;
+  width: 1000px;
+  text-align: center;
+}
+body{
+  margin: auto;
+  width: 1340px;
+}
+.box{
+  padding: 5px;
+  background-color: #333;
+  opacity: 0.6;
+  border: 2px solid white;
+}
+#grid{
+  height: 240px;
+  width: 280px;
+  padding-left: 60px;
+  }
+.row{
+  background-image: url("http://cdn.wallpapersafari.com/23/78/IYP4Jv.jpg");
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+#desc{
+  color: white;
+}
+#os{
+  font-size: 26px;
+  text-align: center;
+  padding-top: 20px;
+}
+#os-1{
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+    width: 900px;
+}
+#oslogo{
+  height: 160px;
+  width: 48em;
+  padding-left: 38em;
+  border-radius:
+}
+.row{
+}
+.boxa#boxa1{
+  height: 400px;
+}
+.boxa#boxa2{
+
+}
+#osimage{
+  height: 400px;
+  width: 600px;
+  border: 2px solid #333;
+}
+#osdesc{
+  color: white;
+  padding-left: 400px;
+  font-size: 20px;
+}
+#learn{
+  background-color: #EC6928;
+  padding: 14px;
+  border-radius: 5px;
+  font-size: 18px;
+  padding-top: 10px;
+  list-style-type: none;
+  text-decoration: none;
+  float: right;
+}
+#phone{
+  font-size: 26px;
+  text-align: center;
+}
+.mobileapp{
+  background-image: url("https://orig00.deviantart.net/0ae4/f/2012/200/9/e/metro_app__steam_for_windows_phone_by_metroux-d56yhqd.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 10em;
+  margin: auto;
+  width: 800;
+}
+#phone1{
+  font-size: 30px;
+  text-align: center;
+  color: #EC6928;
+  padding: 40px;
+  background-attachment: scroll;
+}
+.review{
+  margin: auto;
+  width: 900px;
+
+}
+#head4{
+  font-size: 30px;
+  text-align: center;
+  }
+.developerscomment{
+  font-size: 18px;
+  padding: 18px;
+}
+footer{
+  padding: 6em;
+}
+.boxb{
+  color: white;
+}

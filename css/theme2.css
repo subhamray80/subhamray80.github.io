@@ -1,0 +1,85 @@
+.header{
+  background-image: url("http://i2.wp.com/shoryuken.com/wp-content/uploads/2017/06/steam.png?fit=750%2C400&resize=750%2C400");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 18em;
+  border: 2px solid #336;
+}
+.heading{
+  position: absolute;
+  top: 8px;
+  left: 26px;
+  color: white;
+  font-family: Script MT Bold;
+}
+#community{
+  font-size: 40px;
+  position: absolute;
+  top: 8em;
+  left: 12em;
+  font-family: Script MT Bold;
+}
+#downarrow{
+  height: 40px;
+  width: 40px;
+  position: absolute;
+  top: 30em;
+  left: 40em;
+}
+body{
+  margin: auto;
+  width: 1340px;
+}
+h2{
+  font-size: 40px;
+  text-align: center;
+}
+#steam{
+  font-size: 20px;
+  text-align: center;
+}
+#image1{
+  height: 400px;
+  width: 600px;
+  border: 6px solid white;
+}
+#aboutapp{
+  font-size: 22px;
+  padding: 60px;
+}
+.row{
+  margin: auto;
+  width: 1260px;
+  padding: 1em;
+}
+#games{
+  text-align: center;font-size: 30px;
+}
+#feature{
+  text-align: center;
+  font-size: 40px;
+}
+.middle{
+ background-image: url("http://i1-news.softpedia-static.com/images/news2/steam-for-linux-beta-client-updated-with-new-features-for-big-picture-488233-2.jpg");
+
+ padding: 20em;
+}
+#ui{
+  font-size: 60px;
+  text-align: center;
+  color: white;
+  background-color: #336;
+  opacity: 0.8;
+}
+footer{
+  padding: 8em;
+  text-align: center;
+}
+.steamfeatures{
+  font-size: 20px;
+  margin: auto;
+  width: 1000px;
+  padding: 80px;
+}

@@ -1,0 +1,74 @@
+h1{
+  text-align: center;
+  font-size: 26px;
+  padding-top: 6px;
+}
+#head{
+  text-align: center;
+  font-size: 18px;
+}
+.header{
+  background-image: url("http://media.steampowered.com/apps/steamhardware/InHomeStreamingDiagram.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: auto;
+  width: 1300px;
+  padding: 18em;
+}
+.row{
+  height: 80em;
+  background-color: #E0E5E6;
+  margin: auto;
+  width: 1360px;
+
+
+}
+#box1{
+  background-color: #AAB8BF;
+  width: 900px;
+  padding: 2em;
+}
+#box2{
+  background-color: #AAB8BF;
+  width: 300px;
+  padding: 14em;
+}
+#box3{
+  background-color: #AAB8BF;
+  width: 900px;
+  padding: 2em;
+}
+#box4{
+  background-color: #AAB8BF;
+  width: 300px;
+  padding: 14em;
+}
+h2{
+  font-size: 40px;
+  text-align: center;
+}
+.steamos{
+  background-image: url("https://edge.alluremedia.com.au/m/g/2014/05/steam_in_home_streaming.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 24em;
+  margin: auto;
+  width: 1340px;
+}
+#image-a{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 460px;
+  width: 840px;
+}
+#desc{
+  font-size: 20px;
+  text-align: center;
+}
+footer{
+  padding: 2em;
+  text-align: center;
+}

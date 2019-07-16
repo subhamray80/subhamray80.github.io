@@ -1,0 +1,180 @@
+/*link navigation*/
+.navbar{
+  background-color: #446;
+  list-style-type: none;
+  display: inline-block;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+  padding-left: 20px;
+  opacity: 0.8;
+
+}
+#link a{
+  width: 100%;
+  text-decoration: none;
+  list-style-type: none;
+  display: block;
+  color: white;
+  padding: 16px;
+  text-align: center;
+  font-size: 18px;
+  padding-top: 14px;
+}
+#link{
+  float: left;
+}
+#link a:hover{
+  background-color: #448;
+  padding: 15px;
+  text-align: center;
+  border-radius: 10px;
+}
+/*end*/
+
+/*header and login buttons*/
+.header{
+  padding: 0.4em;
+}
+.steamhead{
+  height: 480px;
+  width: 100%;
+  border: 2px solid #334;
+}
+.container{
+  backface-visibility: hidden;
+  width: 100%;
+}
+.footer{
+  background-color: #333;
+  padding: 6em;
+}
+/*heading*/
+#heading{
+  font-size: 40px;
+  font-family: Arial;
+  color: white;
+  text-align: center;
+  padding-top: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-family: forte;
+  }
+.login{
+  border-radius: 30px;
+  text-align: center;
+  font-size: 18px;
+  font-family: Arial;
+  color: black;
+  padding-top: 8px;
+  background-color: white;
+  opacity: 1.0;
+  margin: auto;
+  width: 50%;
+  margin: 10px;
+}
+#password{
+  padding-left: 2px;
+  padding-top: 12px;
+}
+#email{
+  padding-left: 6px;
+}
+#submitbutton{
+  padding: 40px;
+}
+.submit{
+  padding: 8px;
+  width: 120px;
+  border-radius: 10px;
+  background-color: #446;
+
+}
+.submit:hover{
+  background-color:#448;
+}
+/*header ending*/
+/*about steam app 1st row*/
+.steamapp{
+  margin: auto;
+  padding-left: 140px;
+  padding-right: 140px;
+  background-color: #333;
+  opacity: 0.6;
+
+  }
+#steam_heading{
+  font-size: 26px;
+  font-family: forte;
+  text-align: center;
+  color: white;
+  opacity: 1.4;
+  filter: alpha(opacity=60);
+}
+#about{
+  font-size: 16px;
+  text-align: center;
+  color: white;
+  border-radius: 10px;
+  border: 4px solid #448;
+}
+/*end of row 1*/
+
+/*body background properties*/
+body{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: auto;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+/*navigation link logo*/
+#steamlogo{
+  float: right;
+}
+/*steam os description*/
+.os{
+  margin: 40px;
+  border-radius: 60px;
+}
+.os{
+  background-color: white;
+  margin: 40px 36em;
+}
+#check{
+  font-size: 2em;
+  color: black;
+  background-color: white;
+  text-align: center;
+  font-family: forte;
+  opacity: 0.4;
+}
+#osdesc{
+  text-align: center;
+  padding-left: 4em;
+  color: white;
+  margin: 80px 60px 80px 36px;
+  font-size: 24px;
+}
+#lmore{
+  background-color: white;
+  padding: 16px;
+  text-decoration: none;
+  font-size: 20px;
+  margin: 10px 30em;
+  border-radius: 10px;
+}
+#overview{
+  text-align: center;
+  background-color: white;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 18px;
+  border-radius: 16px;
+}
+.more{
+  text-align: right;
+}

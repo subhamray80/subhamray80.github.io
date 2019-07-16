@@ -1,0 +1,39 @@
+body{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.forms{
+  font-size: 40px;
+  position: absolute;
+  top: 2em;
+  left: 4em;
+  background: 2px solid #336;
+  background-color: white;
+  padding: 20px;
+  border-radius: 26px;
+  opacity: 0.8;
+}
+.signup{
+  font-size: 20px;
+  padding: 20px;
+}
+#submit{
+  background-color: #335;
+  padding: 10px;
+  width: 120px;
+  border-radius: 10px;
+}
+#submit:hover{
+  background-color: #338;
+}
+h1{
+  text-align: center;font-size: 30px;
+}
+#heading{
+  font-size: 40px;
+  text-align: center;
+  text-overflow: ellipsis;
+
+}
